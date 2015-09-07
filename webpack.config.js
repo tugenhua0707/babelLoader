@@ -3,7 +3,7 @@
 module.exports = {
   entry: "./src/main.js",
   output: {
-    filename: "build.js",
+    filename: "build/build.js",
 	path: __dirname
   },
   module: {

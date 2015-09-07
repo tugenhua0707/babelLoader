@@ -1,3 +1,2 @@
 
-let loader = require('./bind');
-console.log(loader);
+require("./module1");
